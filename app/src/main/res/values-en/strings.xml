@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto">this is a text from string in ENGLISH</string>
+    <string name="titulo">this is a title in ENGLISH</string>
+    <string name="bienvenida">WELCOME</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_entrar">ENTER</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiHolaMundo</string>
+
+    <string name="texto">este es un texto desde string en ESPAÑOL</string>
+    <string name="titulo"> este es un titulo en ESPAÑOL</string>
+    <string name="action_settings">Settings</string>
+    <string name="bienvenida">BIENVENIDO</string>
+    <string name="btn_entrar">ENTRAR</string>
+</resources>
